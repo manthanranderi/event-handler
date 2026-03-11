@@ -1,3 +1,5 @@
+<img width="893" height="816" alt="Screenshot 2026-03-11 124557" src="https://github.com/user-attachments/assets/20913da7-b9c4-47fc-8382-ec1826abed1e" />
+
 # Student Attendance App
 
 A simple **React-based Student Attendance Management Application** where users can add students, mark their attendance, and manage the student list.
